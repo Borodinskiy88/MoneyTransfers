@@ -13,7 +13,7 @@ class main {
 
 //todo Простой калькулятор
     myCard - из нее вычитаем
-    amount - сумма, из которой вычитаем
+    amount - сумма, которую вычитаем
     comission - 0,75%
     amountComission - сумма комиссии
 
