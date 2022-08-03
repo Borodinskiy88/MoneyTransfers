@@ -1,4 +1,4 @@
-class main {
+fun main () {
     /*
     Упростим задачу, чтобы было проще: за переводы с любых карт комиссия 0.75%, минимум 35 рублей.
 
@@ -12,9 +12,17 @@ class main {
      */
 
 //todo Простой калькулятор
-    myCard - из нее вычитаем
-    amount - сумма, которую вычитаем
-    comission - 0,75%
-    amountComission - сумма комиссии
+//    myCard - из нее вычитаем
+//    amount - сумма, которую вычитаем
+//    commission - 0,75%
+//    amountCommission - сумма комиссии
+    val myCard = 100_000.00
+    val amount: Double
+    val commission = 0.925
+    val result = if (amount > 35.00) {
+
+
+    }
+
 
 }
